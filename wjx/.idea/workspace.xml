@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a0323b0-4fac-4f86-8bc7-ae22519f3ab0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c4MaYkJVfXul3TB2XqZKkXzGY4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/wjx-master/wenjuan/spiders/wenjuan.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Python.wjxSpider">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wjx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wjxsumbit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjxsumbit/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wjxSpider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wjx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wjxsumbit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjxsumbit/wjxSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wjxSpider" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a0323b0-4fac-4f86-8bc7-ae22519f3ab0" name="Default Changelist" comment="" />
+      <created>1589783475274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589783475274</updated>
+      <workItem from="1589783476476" duration="4091000" />
+      <workItem from="1589867870274" duration="8516000" />
+      <workItem from="1589876815186" duration="6895000" />
+      <workItem from="1589888417944" duration="197000" />
+      <workItem from="1589890678182" duration="1413000" />
+      <workItem from="1589939667844" duration="14419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589784035490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589784035490" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1589951734241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589951734241" />
+    <state width="1493" height="95" key="GridCell.Tab.0.bottom" timestamp="1589962165250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589962165250" />
+    <state width="1493" height="95" key="GridCell.Tab.0.center" timestamp="1589962165250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589962165250" />
+    <state width="1493" height="95" key="GridCell.Tab.0.left" timestamp="1589962165250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589962165250" />
+    <state width="1493" height="95" key="GridCell.Tab.0.right" timestamp="1589962165250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589962165250" />
+    <state width="1493" height="81" key="GridCell.Tab.1.bottom" timestamp="1589961959644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="81" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589961959644" />
+    <state width="1493" height="81" key="GridCell.Tab.1.center" timestamp="1589961959644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="81" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589961959644" />
+    <state width="1493" height="81" key="GridCell.Tab.1.left" timestamp="1589961959644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="81" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589961959644" />
+    <state width="1493" height="81" key="GridCell.Tab.1.right" timestamp="1589961959644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="81" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589961959644" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1589951735104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589951735104" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1589891369955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1589891369955" />
+    <state x="445" y="259" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1589784199073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="259" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1589784199073" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1589868437594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589868437594" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wjx$test.coverage" NAME="test Coverage Results" MODIFIED="1589958068870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjxsumbit" />
+    <SUITE FILE_PATH="coverage/wjx$wjxSpider.coverage" NAME="wjxSpider Coverage Results" MODIFIED="1589962165245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjxsumbit" />
+  </component>
+</project>
